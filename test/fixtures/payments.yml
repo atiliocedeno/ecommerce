@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   total: 1
+#   order: one
+#   payment_methods: one
+
+# two:
+#   total: 1
+#   order: two
+#   payment_methods: two

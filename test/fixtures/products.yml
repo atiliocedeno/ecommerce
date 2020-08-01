@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Shoes
+  parent_id: 
+  color: 
+  size: 
+  stock: 
+
+two:
+  parent_id: 1
+  name: 'Sport shoes'
+  color: Red
+  size: XL
+  stock: 2
+
+three:
+  parent_id: 1
+  name: 'Rest shoes'
+  color: Red
+  size: XL
+  stock: 1
+
+four:
+  parent_id: 3
+  name: 'Without stock shoes'
+  color: Red
+  size: XL
+  stock: 4
